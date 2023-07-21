@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\visual studio object\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\simple movie project\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\visual studio object\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\simple movie project\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\lychenus\\.nuget\\packages\\",
-      "outputPath": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\visual studio object\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\simple movie project\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lychenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
